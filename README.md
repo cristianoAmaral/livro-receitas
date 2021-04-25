@@ -4,5 +4,5 @@ Olá ! Bem Vindo ao meu livro de receitas :cookie:
 
 - Strogonoff de Frango :chicken:
 - Pavê de Morango :strawberry:
-- 
+
 
